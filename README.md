@@ -74,7 +74,7 @@ The **Token Bucket** algorithm uses tokens to control request processing:
 
 ## Implementation
 This repository contains:
-- **Python implementations** of both algorithms
+- **Java script implementations** of both algorithms
 - **Examples and simulations** showing how messages/requests are handled over time
 - **Visualization scripts** (optional) to see how bursts are processed
 
